@@ -9,6 +9,7 @@ function App() {
       <h3>반석 세번째 커밋</h3>
       <hr></hr>
       <h1>현정's 커밋✨</h1>
+      <h1>components 추가</h1>
     </div>
   );
 }
